@@ -137,13 +137,9 @@ INTERVENTIONS = {
 # FILE PATHS
 # ============================================================
 
-MASTER_CSV = (
-    r"E:\Dhaka_Cool_Game\Dhaka_Cool_Game_Master.csv"
-)
+MASTER_CSV = "Dhaka_Cool_Game_Master.csv"
 
-REFERENCE_RASTER = (
-    r"E:\Dhaka_Cool_Game\Dhaka_LST_2020_Mar_Sep.tif"
-)
+REFERENCE_RASTER = "Dhaka_LST_2020_Mar_Sep.tif"
 
 
 # ============================================================
