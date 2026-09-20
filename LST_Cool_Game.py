@@ -139,7 +139,7 @@ INTERVENTIONS = {
 
 MASTER_CSV = "Dhaka_Cool_Game_Master.csv"
 
-REFERENCE_RASTER = "Dhaka_LST_2020_Mar_Sep.tif"
+REFERENCE_RASTER = "data/Dhaka_LST_2020_Mar_Sep.tif"
 
 
 # ============================================================
